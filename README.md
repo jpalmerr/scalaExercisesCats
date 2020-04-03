@@ -5,4 +5,4 @@
 I have completed the exercises:
 
 
-<img src="./docs/CompletedScreenshot.png" alt="Completed exercises" width="300px"/>
+<img src="./docs/CompletedScreenshot.png" alt="Completed exercises" width="1000px"/>
