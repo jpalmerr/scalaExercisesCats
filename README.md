@@ -4,4 +4,5 @@
 
 I have completed the exercises:
 
-[Completed Exercises](./docs/CompletedScreenshot.png)
+
+<img src="./docs/CompletedScreenshot.png" alt="Completed exercises" width="300px"/>
